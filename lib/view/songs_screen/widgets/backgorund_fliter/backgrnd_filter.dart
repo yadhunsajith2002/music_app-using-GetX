@@ -27,7 +27,7 @@ class BackGroundFilter extends StatelessWidget {
           gradient: LinearGradient(
               begin: Alignment.topCenter,
               end: Alignment.bottomCenter,
-              colors: [kprimaryclr, ksecondaryclr]),
+              colors: [kwhite, kblack]),
         ),
       ),
     );
